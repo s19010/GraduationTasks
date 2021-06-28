@@ -25,4 +25,4 @@
 - [企画書](https://docs.google.com/document/d/1HrS_s03t7ZM8-zFceADWjZw3swFP63_3hRUpw8fYoUY/edit)
 - [仕様書 or 外部設計書](https://docs.google.com/document/d/1Mn70xV5Lr8q0ZftDjhcJ-uL03KoP7KsaBNfC2aodMMw/edit)
 - [ソース](リンク)
-- [プレゼンテーション](https://docs.google.com/presentation/d/1ACh3IyDnQpPzOqMxK4k3_T8LzQUt5tWWS7jV2RntWPs/edit#slide=id.p)
+- [プレゼンテーション](https://docs.google.com/presentation/d/1ACh3IyDnQpPzOqMxK4k3_T8LzQUt5tWWS7jV2RntWPs/edit?usp=sharing)
