@@ -2,9 +2,9 @@
 
 ## 沖縄の方言データベース
 
-summaryを書く
+現在リンクされているものは、企画書のみ。
 
-### Member(複数の場合は以下のように並列で) 
+### Member
 
 - [S19010 玉城 栄輝](https://github.com/s19010/GraduationTasks) // メインとなるリポジトリ
 
