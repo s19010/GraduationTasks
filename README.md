@@ -1,9 +1,9 @@
 # GraduationTasks
 
 各ディレクトリの概要  
-docs -- ドキュメントディレクトリ<br>
-project -- ソースディレクトリ<br>
-progress -- 進捗
+・docs -- ドキュメントディレクトリ<br>
+・project -- ソースディレクトリ<br>
+・progress -- 進捗
 
 ## 沖縄の方言データベース
 
