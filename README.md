@@ -21,7 +21,8 @@ Android Studio を使ったAndroidアプリの開発。
 
 - [S19010 玉城 栄輝](https://github.com/s19010/GraduationTasks) // メインとなるリポジトリ
 
-### References（現在内容ができているものは企画書のみ。ソースのリンクはまだ。）
+### References
+（現在内容ができているものは企画書のみ。ソースのリンクはまだ。）
 
 - [スケジュール](https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing)
 - [企画書](https://docs.google.com/document/d/1HrS_s03t7ZM8-zFceADWjZw3swFP63_3hRUpw8fYoUY/edit)
