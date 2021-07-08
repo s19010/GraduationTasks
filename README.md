@@ -24,8 +24,9 @@ Android Studio を使ったAndroidアプリの開発。
 ### References
 （現在内容ができているものは企画書のみ。ソースのリンクはまだ。）
 
-- [スケジュール](https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing){:target="_blank"}
-- [企画書](https://docs.google.com/document/d/1HrS_s03t7ZM8-zFceADWjZw3swFP63_3hRUpw8fYoUY/edit){:target="_blank"}
-- [仕様書 or 外部設計書](https://docs.google.com/document/d/1Mn70xV5Lr8q0ZftDjhcJ-uL03KoP7KsaBNfC2aodMMw/edit){:target="_blank"}
-- [ソース](リンク){:target="_blank"}
-- [プレゼンテーション](https://docs.google.com/presentation/d/1ACh3IyDnQpPzOqMxK4k3_T8LzQUt5tWWS7jV2RntWPs/edit?usp=sharing){:target="_blank"}
+- <a href="https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing" target="_blank">[スケジュール]</a>
+- <a href="https://docs.google.com/document/d/1HrS_s03t7ZM8-zFceADWjZw3swFP63_3hRUpw8fYoUY/edit" target="_blank">[企画書]</a>
+- <a href="https://docs.google.com/document/d/1Mn70xV5Lr8q0ZftDjhcJ-uL03KoP7KsaBNfC2aodMMw/edit" target="_blank">[仕様書 or 外部設計書]</a>
+- <a href="">[ソース]</a>
+- <a href="https://docs.google.com/presentation/d/1ACh3IyDnQpPzOqMxK4k3_T8LzQUt5tWWS7jV2RntWPs/edit?usp=sharing" target="_blank">[プレゼンテーション]</a>
+
