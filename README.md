@@ -24,7 +24,7 @@ Android Studio を使ったAndroidアプリの開発。
 ### References
 （現在内容ができているものは企画書のみ。ソースのリンクはまだ。）
 
-- [スケジュール](https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing)
+- [スケジュール](<a href="URL" target="_blank">https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing</a>)
 - [企画書](https://docs.google.com/document/d/1HrS_s03t7ZM8-zFceADWjZw3swFP63_3hRUpw8fYoUY/edit)
 - [仕様書 or 外部設計書](https://docs.google.com/document/d/1Mn70xV5Lr8q0ZftDjhcJ-uL03KoP7KsaBNfC2aodMMw/edit)
 - [ソース](リンク)
