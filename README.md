@@ -34,6 +34,6 @@ Android Studio を使ったAndroidアプリの開発。
 #### PBL用卒業研究資料 (7~8月の２ヶ月間)
 - [スケジュール：PBL用](https://docs.google.com/spreadsheets/d/1vYTSaaVVlbfpLCkNU8_vfGpKbc0t5la1L4ckY9OjVdw/edit#gid=0)
 - [企画書：PBL用](https://docs.google.com/document/d/1ydLk5jTC74PdadOaqD_T_l235K630g_hGQrB3if4R5E/edit)
-- [仕様書 or 外部設計書：PBL用](https://docs.google.com/document/d/1ydLk5jTC74PdadOaqD_T_l235K630g_hGQrB3if4R5E/edit)
+- [仕様書 or 外部設計書：PBL用](https://docs.google.com/document/d/1NK6rM73bTlJCYNdhKbLTWjJjaorzySTABSsAzz6p1gw/edit?usp=sharing)
 - [ソース：PBL用](リンク)
-- [プレゼンテーション：PBL用](https://docs.google.com/document/d/1ydLk5jTC74PdadOaqD_T_l235K630g_hGQrB3if4R5E/edit)
+- [プレゼンテーション：PBL用](https://docs.google.com/presentation/d/1W6VhVkQaWfUPh8mYtEZ7XWosLRr_rGPut_DzoA9xA7M/edit?usp=sharing)
