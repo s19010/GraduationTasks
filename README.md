@@ -9,20 +9,18 @@
 
 Android Studio を使ったAndroidアプリの開発。
 
-以下の機能をすべて１つのアプリに詰め込む。
-または、この中の１つか、２つか、３つをそれぞれ別のアプリとして実装予定。
+以下の機能を全て１つのアプリに詰め込む。
+または、それぞれを別のアプリとして実装予定。
 
 ・方言データベース<br>
 ・方言クイズ<br>
 ・方言音声認識<br>
-・方言テスト<br>
 
 ### Member
 
 - [S19010 玉城 栄輝](https://github.com/s19010/GraduationTasks) // メインとなるリポジトリ
 
 ### References
-（現在内容ができているものは企画書のみ。ソースのリンクはまだ。）
 
 #### 個人用卒業研究資料
 - [スケジュール：個人用](https://docs.google.com/spreadsheets/d/1uyINGPHk2EHzqjiNDtYkcIiz46lLa_16kXI96Z4i45M/edit?usp=sharing)
